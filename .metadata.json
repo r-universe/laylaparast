@@ -1,0 +1,14 @@
+[
+  {
+    "package": "hettest",
+    "oncran": true
+  },
+  {
+    "package": "Rsurrogate",
+    "oncran": true
+  },
+  {
+    "package": "SBdecomp",
+    "oncran": true
+  }
+]

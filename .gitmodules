@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hettest"]
+	path = hettest
+	url = https://github.com/laylaparast/hettest
+	shallow = true
+	registered = true
+[submodule "Rsurrogate"]
+	path = Rsurrogate
+	url = https://github.com/laylaparast/rsurrogate
+	shallow = true
+	registered = true
+[submodule "SBdecomp"]
+	path = SBdecomp
+	url = https://github.com/laylaparast/sbdecomp
+	shallow = true
+	registered = true
