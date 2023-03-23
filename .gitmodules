@@ -3,9 +3,59 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CMFsurrogate"]
+	path = CMFsurrogate
+	url = https://github.com/cran/CMFsurrogate
+	shallow = true
+	registered = true
+[submodule "freebird"]
+	path = freebird
+	url = https://github.com/cran/freebird
+	shallow = true
+	registered = true
+[submodule "hetsurr"]
+	path = hetsurr
+	url = https://github.com/cran/hetsurr
+	shallow = true
+	registered = true
 [submodule "hettest"]
 	path = hettest
 	url = https://github.com/laylaparast/hettest
+	shallow = true
+	registered = true
+[submodule "landest"]
+	path = landest
+	url = https://github.com/cran/landest
+	shallow = true
+	registered = true
+[submodule "landmix"]
+	path = landmix
+	url = https://github.com/cran/landmix
+	shallow = true
+	registered = true
+[submodule "landpred"]
+	path = landpred
+	url = https://github.com/cran/landpred
+	shallow = true
+	registered = true
+[submodule "longsurr"]
+	path = longsurr
+	url = https://github.com/cran/longsurr
+	shallow = true
+	registered = true
+[submodule "OptimalSurrogate"]
+	path = OptimalSurrogate
+	url = https://github.com/cran/OptimalSurrogate
+	shallow = true
+	registered = true
+[submodule "OSsurvival"]
+	path = OSsurvival
+	url = https://github.com/cran/OSsurvival
+	shallow = true
+	registered = true
+[submodule "PTERP"]
+	path = PTERP
+	url = https://github.com/cran/PTERP
 	shallow = true
 	registered = true
 [submodule "Rsurrogate"]
@@ -16,5 +66,15 @@
 [submodule "SBdecomp"]
 	path = SBdecomp
 	url = https://github.com/laylaparast/sbdecomp
+	shallow = true
+	registered = true
+[submodule "SurrogateOutcome"]
+	path = SurrogateOutcome
+	url = https://github.com/cran/SurrogateOutcome
+	shallow = true
+	registered = true
+[submodule "SurrogateTest"]
+	path = SurrogateTest
+	url = https://github.com/cran/SurrogateTest
 	shallow = true
 	registered = true
