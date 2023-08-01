@@ -5,6 +5,27 @@
 [submodule "CMFsurrogate"]
 	path = CMFsurrogate
 	url = https://github.com/cran/CMFsurrogate
+[submodule "OSsurvival"]
+	path = OSsurvival
+	url = https://github.com/cran/OSsurvival
+[submodule "OptimalSurrogate"]
+	path = OptimalSurrogate
+	url = https://github.com/cran/OptimalSurrogate
+[submodule "PTERP"]
+	path = PTERP
+	url = https://github.com/cran/PTERP
+[submodule "Rsurrogate"]
+	path = Rsurrogate
+	url = https://github.com/laylaparast/rsurrogate
+[submodule "SBdecomp"]
+	path = SBdecomp
+	url = https://github.com/laylaparast/sbdecomp
+[submodule "SurrogateOutcome"]
+	path = SurrogateOutcome
+	url = https://github.com/cran/SurrogateOutcome
+[submodule "SurrogateTest"]
+	path = SurrogateTest
+	url = https://github.com/cran/SurrogateTest
 [submodule "freebird"]
 	path = freebird
 	url = https://github.com/cran/freebird
@@ -26,24 +47,3 @@
 [submodule "longsurr"]
 	path = longsurr
 	url = https://github.com/cran/longsurr
-[submodule "OptimalSurrogate"]
-	path = OptimalSurrogate
-	url = https://github.com/cran/OptimalSurrogate
-[submodule "OSsurvival"]
-	path = OSsurvival
-	url = https://github.com/cran/OSsurvival
-[submodule "PTERP"]
-	path = PTERP
-	url = https://github.com/cran/PTERP
-[submodule "Rsurrogate"]
-	path = Rsurrogate
-	url = https://github.com/laylaparast/rsurrogate
-[submodule "SBdecomp"]
-	path = SBdecomp
-	url = https://github.com/laylaparast/sbdecomp
-[submodule "SurrogateOutcome"]
-	path = SurrogateOutcome
-	url = https://github.com/cran/SurrogateOutcome
-[submodule "SurrogateTest"]
-	path = SurrogateTest
-	url = https://github.com/cran/SurrogateTest
