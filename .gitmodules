@@ -35,6 +35,9 @@
 [submodule "hetsurr"]
 	path = hetsurr
 	url = https://github.com/cran/hetsurr
+[submodule "hetsurrSurv"]
+	path = hetsurrSurv
+	url = https://github.com/laylaparast/hetsurrsurv
 [submodule "hettest"]
 	path = hettest
 	url = https://github.com/laylaparast/hettest
