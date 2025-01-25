@@ -26,6 +26,9 @@
 [submodule "SurrogateRank"]
 	path = SurrogateRank
 	url = https://github.com/laylaparast/surrogaterank
+[submodule "SurrogateSeq"]
+	path = SurrogateSeq
+	url = https://github.com/laylaparast/surrogateseq
 [submodule "SurrogateTest"]
 	path = SurrogateTest
 	url = https://github.com/cran/SurrogateTest
