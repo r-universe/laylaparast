@@ -32,6 +32,9 @@
 [submodule "SurrogateTest"]
 	path = SurrogateTest
 	url = https://github.com/cran/SurrogateTest
+[submodule "cohetsurr"]
+	path = cohetsurr
+	url = https://github.com/cran/cohetsurr
 [submodule "freebird"]
 	path = freebird
 	url = https://github.com/cran/freebird
