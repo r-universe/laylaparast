@@ -22,7 +22,7 @@
 	url = https://github.com/laylaparast/sbdecomp
 [submodule "SurrogateOutcome"]
 	path = SurrogateOutcome
-	url = https://github.com/cran/SurrogateOutcome
+	url = https://github.com/laylaparast/surrogateoutcome
 [submodule "SurrogateRank"]
 	path = SurrogateRank
 	url = https://github.com/laylaparast/surrogaterank
