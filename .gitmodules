@@ -35,6 +35,9 @@
 [submodule "cohetsurr"]
 	path = cohetsurr
 	url = https://github.com/cran/cohetsurr
+[submodule "etsi"]
+	path = etsi
+	url = https://github.com/cran/etsi
 [submodule "freebird"]
 	path = freebird
 	url = https://github.com/cran/freebird
