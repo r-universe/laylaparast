@@ -61,7 +61,7 @@
 	url = https://github.com/cran/landpred
 [submodule "longsurr"]
 	path = longsurr
-	url = https://github.com/cran/longsurr
+	url = https://github.com/laylaparast/longsurr
 [submodule "survivalsurrogate"]
 	path = survivalsurrogate
 	url = https://github.com/cran/survivalsurrogate
