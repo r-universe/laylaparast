@@ -58,7 +58,7 @@
 	url = https://github.com/cran/landmix
 [submodule "landpred"]
 	path = landpred
-	url = https://github.com/cran/landpred
+	url = https://github.com/laylaparast/landpred
 [submodule "longsurr"]
 	path = longsurr
 	url = https://github.com/laylaparast/longsurr
