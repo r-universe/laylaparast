@@ -43,7 +43,7 @@
 	url = https://github.com/cran/freebird
 [submodule "hetsurr"]
 	path = hetsurr
-	url = https://github.com/cran/hetsurr
+	url = https://github.com/laylaparast/hetsurr
 [submodule "hetsurrSurv"]
 	path = hetsurrSurv
 	url = https://github.com/laylaparast/hetsurrsurv
