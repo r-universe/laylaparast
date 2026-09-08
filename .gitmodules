@@ -41,9 +41,6 @@
 [submodule "etsi"]
 	path = etsi
 	url = https://github.com/cran/etsi
-[submodule "freebird"]
-	path = freebird
-	url = https://github.com/cran/freebird
 [submodule "hetsurr"]
 	path = hetsurr
 	url = https://github.com/laylaparast/hetsurr
